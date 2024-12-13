@@ -11,7 +11,10 @@ As a Graduate Research Assistant, I have contributed to multiple large-scale ass
 
 Qualifications. 
 Advanced IRT Expertise: My doctoral research involves developing and implementing unidimensional and bifactor IRT models (including GRM and 2PL) on surveys and multistage assessments, both with and without adaptive functions. I perform rigorous item calibration to enhance the accuracy and validity of assessment scores.
+
 Proficiency with Analytical Tools: I am skilled in using RStudio, SPSS, and Mplus for complex data manipulations and analyses. These tools have been instrumental in producing clear, data-driven insights essential for informed decision-making.
+
 Commitment to Educational Measurement and Equity: My research focuses on assessing college readiness and evaluating test validity. In a recent role, I identified potential biases within diagnostic assessments and recommended adjustments that improved both fairness and accuracy in scoring.
-Additional Information
+
+Additional Information:
 I am eligible for one-year Optional Practical Training (OPT). For longer-term employment, I would require work visa sponsorship.
